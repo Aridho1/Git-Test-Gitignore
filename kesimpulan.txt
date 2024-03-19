@@ -1,0 +1,6 @@
+file .gitignore
+adalah file git, guna untuk membuat sebuah file/folder
+tidak terbawa commit saat melakukan cmd 'git add .'
+
+digunakan karena memang tidak semua file harus dibawa
+repo github. contohnya file configurasi lokal.
